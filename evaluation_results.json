@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.0,
+  "finetuned_accuracy": 0.3871,
+  "improvement": 0.3871,
+  "test_set_size": 31,
+  "label_map": {
+    "meta_narrative": 0,
+    "tactical_analysis": 1,
+    "reactive_venting": 2
+  },
+  "model": "distilbert-base-uncased"
+}
